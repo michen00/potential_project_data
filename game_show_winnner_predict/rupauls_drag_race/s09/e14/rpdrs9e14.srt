@@ -1,0 +1,3548 @@
+﻿1
+00:00:01,001 --> 00:00:02,936
+{n8}[Female announcer]
+<i><font color="white">Welcome to the grand finale</font></i>
+
+2
+00:00:03,003 --> 00:00:04,605
+{n8}<i><font color="white">of </font></i>RuPaul's Drag Race.
+
+3
+00:00:04,671 --> 00:00:06,740
+{n8}<i><font color="white">Please welcome to the stage</font></i>
+
+4
+00:00:06,807 --> 00:00:08,542
+{n8}<i><font color="white">the queens of Season 9.</font></i>
+
+5
+00:00:08,609 --> 00:00:11,745
+{n8}<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American, American... ♪</font></i>
+
+6
+00:00:11,812 --> 00:00:13,113
+{n8}[Female announcer]
+<i><font color="white">The girl can't help it.</font></i>
+
+7
+00:00:13,180 --> 00:00:15,215
+{n8}<i><font color="white">It's Jaymes Mansfield.</font></i>
+
+8
+00:00:15,282 --> 00:00:16,483
+{n8}<i><font color="white">♪ The red, white,</font></i>
+<i><font color="white">and blue ♪</font></i>
+
+9
+00:00:16,550 --> 00:00:20,621
+<i><font color="white">♪ American, American,</font></i>
+<i><font color="white">American... ♪</font></i>
+
+10
+00:00:20,687 --> 00:00:25,192
+<i><font color="white">You'll never go back</font></i>
+<i><font color="white">once you go Kimora Blac.</font></i>
+
+11
+00:00:29,162 --> 00:00:30,797
+<i><font color="white">♪ My, my, my... ♪</font></i>
+
+12
+00:00:30,864 --> 00:00:32,466
+<i><font color="white">There's nothing</font></i>
+<i><font color="white">like a dame.</font></i>
+
+13
+00:00:32,533 --> 00:00:35,202
+<i><font color="white">Give it up</font></i>
+<i><font color="white">for Charlie Hides.</font></i>
+
+14
+00:00:35,269 --> 00:00:36,803
+<i><font color="white">♪ We are a family ♪</font></i>
+
+15
+00:00:36,870 --> 00:00:40,307
+<i><font color="white">♪ Hey, hey, hey,</font></i>
+<i><font color="white">despite what you think ♪</font></i>
+
+16
+00:00:40,374 --> 00:00:41,375
+<i><font color="white">♪ This is who I am... ♪</font></i>
+
+17
+00:00:41,441 --> 00:00:43,010
+<i><font color="white">We found her.</font></i>
+
+18
+00:00:43,076 --> 00:00:44,611
+<i><font color="white">It's Eureka.</font></i>
+
+19
+00:00:44,678 --> 00:00:49,416
+<i><font color="white">♪ Everybody came here</font></i>
+<i><font color="white">wanting to be free ♪</font></i>
+
+20
+00:00:49,483 --> 00:00:50,551
+<i><font color="white">♪ New York to California ♪</font></i>
+
+21
+00:00:50,617 --> 00:00:52,486
+<i><font color="white">♪ Sea to shining sea ♪</font></i>
+
+22
+00:00:52,553 --> 00:00:54,021
+<i><font color="white">♪ Everybody... ♪</font></i>
+
+23
+00:00:54,087 --> 00:00:55,689
+Hola, mis amores.
+
+24
+00:00:55,756 --> 00:00:57,190
+<i><font color="white">It's Cynthia Lee Fontaine.</font></i>
+
+25
+00:00:57,257 --> 00:01:00,227
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American, American ♪</font></i>
+
+26
+00:01:00,294 --> 00:01:02,496
+<i><font color="white">♪ I am American, American ♪</font></i>
+
+27
+00:01:02,563 --> 00:01:04,765
+<i><font color="white">♪ The red, white</font></i>
+<i><font color="white">and blue... ♪</font></i>
+
+28
+00:01:04,831 --> 00:01:06,466
+<i><font color="white">Brooklyn in the house.</font></i>
+
+29
+00:01:06,533 --> 00:01:07,968
+<i><font color="white">It's Aja.</font></i>
+
+30
+00:01:08,035 --> 00:01:10,470
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American ♪</font></i>
+
+31
+00:01:10,537 --> 00:01:12,539
+<i><font color="white">♪ Just like you, too ♪</font></i>
+
+32
+00:01:16,610 --> 00:01:19,313
+<i><font color="white">What happens in Vegas</font></i>
+<i><font color="white">slays in Vegas.</font></i>
+
+33
+00:01:19,379 --> 00:01:21,748
+<i><font color="white">It's Farrah Moan.</font></i>
+
+34
+00:01:21,815 --> 00:01:23,951
+<i><font color="white">♪ Stand up for yourself,</font></i>
+<i><font color="white">we've just begun to fight ♪</font></i>
+
+35
+00:01:24,017 --> 00:01:27,921
+<i><font color="white">♪ Ain't no way we're</font></i>
+<i><font color="white">going back in time... ♪</font></i>
+
+36
+00:01:27,988 --> 00:01:30,457
+<i><font color="white">She's perfect,</font></i>
+<i><font color="white">she's beautiful,</font></i>
+
+37
+00:01:30,524 --> 00:01:31,992
+<i><font color="white">she looks like a model.</font></i>
+
+38
+00:01:32,059 --> 00:01:34,728
+<i><font color="white">She's Valentina.</font></i>
+
+39
+00:01:39,266 --> 00:01:42,803
+<i><font color="white">♪ I am American, American,</font></i>
+<i><font color="white">American... ♪</font></i>
+
+40
+00:01:42,869 --> 00:01:45,639
+<i><font color="white">She's back in town</font></i>
+<i><font color="white">to shut it down.</font></i>
+
+41
+00:01:45,706 --> 00:01:47,774
+<i><font color="white">Nina Bo'nina Brown.</font></i>
+
+42
+00:01:47,841 --> 00:01:51,144
+<i><font color="white">♪ I am American, American,</font></i>
+<i><font color="white">American ♪</font></i>
+
+43
+00:01:51,211 --> 00:01:53,647
+<i><font color="white">♪ I am American, American ♪</font></i>
+
+44
+00:01:53,714 --> 00:01:55,048
+<i><font color="white">♪ Just like you, too... ♪</font></i>
+
+45
+00:01:55,115 --> 00:01:57,484
+<i><font color="white">She's a Broadway baby.</font></i>
+
+46
+00:01:57,551 --> 00:01:59,219
+<i><font color="white">It's Alexis Michelle.</font></i>
+
+47
+00:01:59,286 --> 00:02:03,323
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American ♪</font></i>
+
+48
+00:02:03,390 --> 00:02:06,827
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American... ♪</font></i>
+
+49
+00:02:06,893 --> 00:02:10,297
+<i><font color="white">And now</font></i>
+<i><font color="white">our top four queens.</font></i>
+
+50
+00:02:10,364 --> 00:02:13,900
+<i><font color="white">Put some pep in your step</font></i>
+<i><font color="white">for Peppermint.</font></i>
+
+51
+00:02:13,967 --> 00:02:17,904
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American ♪</font></i>
+
+52
+00:02:17,971 --> 00:02:19,239
+<i><font color="white">♪ The red, white and blue ♪</font></i>
+
+53
+00:02:19,306 --> 00:02:23,176
+<i><font color="white">♪ I am American, American,</font></i>
+<i><font color="white">American ♪</font></i>
+
+54
+00:02:23,243 --> 00:02:25,045
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American... ♪</font></i>
+
+55
+00:02:25,112 --> 00:02:28,715
+<i><font color="white">She's arty and she turns</font></i>
+<i><font color="white">the party, it's Sasha Velour.</font></i>
+
+56
+00:02:37,958 --> 00:02:41,728
+<i><font color="white">Shake a leg.</font></i>
+<i><font color="white">It's Shea Coulee.</font></i>
+
+57
+00:02:50,470 --> 00:02:52,372
+<i><font color="white">And here comes the tuck.</font></i>
+
+58
+00:02:52,439 --> 00:02:54,241
+<i><font color="white">It's Trinity Taylor.</font></i>
+
+59
+00:02:57,477 --> 00:03:02,282
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American, American... ♪</font></i>
+
+60
+00:03:02,349 --> 00:03:06,953
+<i><font color="white">Give it up one more time</font></i>
+<i><font color="white">for the queens of Season 9.</font></i>
+
+61
+00:03:07,020 --> 00:03:10,691
+<i><font color="white">♪ I am American,</font></i>
+<i><font color="white">American, American ♪</font></i>
+
+62
+00:03:10,757 --> 00:03:13,727
+<i><font color="white">♪ I am American, American ♪</font></i>
+
+63
+00:03:13,794 --> 00:03:15,629
+<i><font color="white">♪ Just like you, too ♪</font></i>
+
+64
+00:03:15,696 --> 00:03:20,534
+[cheers and applause]
+
+65
+00:03:20,600 --> 00:03:24,538
+<i><font color="white">And now</font></i>
+<i><font color="white">our commander in chief,</font></i>
+
+66
+00:03:24,604 --> 00:03:26,506
+<i><font color="white">but you can call her mother.</font></i>
+
+67
+00:03:26,573 --> 00:03:29,176
+<i><font color="white">It's RuPaul.</font></i>
+
+68
+00:03:29,242 --> 00:03:33,213
+[cheers and applause]
+
+69
+00:03:43,356 --> 00:03:44,991
+<i><font color="white">♪ Guess who's</font></i>
+<i><font color="white">back in the house ♪</font></i>
+
+70
+00:03:45,058 --> 00:03:46,393
+<i><font color="white">♪ Heels</font></i>
+<i><font color="white">click-clackin' about ♪</font></i>
+
+71
+00:03:46,460 --> 00:03:48,295
+<i><font color="white">♪ Fine, fresh, feminine,</font></i>
+<i><font color="white">style to eleven ♪</font></i>
+
+72
+00:03:48,361 --> 00:03:50,230
+<i><font color="white">♪ I'm divine, so heavenly,</font></i>
+<i><font color="white">gentlemen sweatin' ♪</font></i>
+
+73
+00:03:50,297 --> 00:03:51,898
+<i><font color="white">♪ It's dimes across the board</font></i>
+<i><font color="white">no doubt ♪</font></i>
+
+74
+00:03:51,965 --> 00:03:54,034
+<i><font color="white">♪ Body like wow, pussy</font></i>
+<i><font color="white">'bout to end this drought ♪</font></i>
+
+75
+00:03:54,101 --> 00:03:56,303
+<i><font color="white">♪ Titties so plentiful,</font></i>
+<i><font color="white">fish queen jezebel ♪</font></i>
+
+76
+00:03:56,369 --> 00:03:57,871
+<i><font color="white">♪ Should be criminal ♪</font></i>
+
+77
+00:03:57,938 --> 00:04:00,140
+<i><font color="white">♪ Don't make sense for</font></i>
+<i><font color="white">a bitch to be this endowed ♪</font></i>
+
+78
+00:04:00,207 --> 00:04:01,808
+<i><font color="white">♪ North to the south,</font></i>
+<i><font color="white">what is that sound? ♪</font></i>
+
+79
+00:04:01,875 --> 00:04:03,844
+<i><font color="white">♪ Watch me drop, drop, drop</font></i>
+<i><font color="white">into the ground ♪</font></i>
+
+80
+00:04:03,910 --> 00:04:05,545
+<i><font color="white">♪ Wait for the four,</font></i>
+<i><font color="white">drop to the floor ♪</font></i>
+
+81
+00:04:05,612 --> 00:04:07,514
+<i><font color="white">♪ Add up the tens</font></i>
+<i><font color="white">to get the score ♪</font></i>
+
+82
+00:04:07,581 --> 00:04:09,616
+<i><font color="white">♪ I been that bitch,</font></i>
+<i><font color="white">yes, I love that drama ♪</font></i>
+
+83
+00:04:09,683 --> 00:04:11,551
+<i><font color="white">♪ Fishy, feminine,</font></i>
+<i><font color="white">up-and-comer ♪</font></i>
+
+84
+00:04:11,618 --> 00:04:13,620
+<i><font color="white">♪ From the Clintons</font></i>
+<i><font color="white">to the Obamas ♪</font></i>
+
+85
+00:04:13,687 --> 00:04:15,722
+<i><font color="white">♪ I keep it tight,</font></i>
+<i><font color="white">now they call me mother ♪</font></i>
+
+86
+00:04:15,789 --> 00:04:17,891
+<i><font color="white">♪ Jaded queen bitch,</font></i>
+<i><font color="white">I love that drama ♪</font></i>
+
+87
+00:04:17,958 --> 00:04:19,793
+<i><font color="white">♪ Fishy, feminine,</font></i>
+<i><font color="white">up-and-comer ♪</font></i>
+
+88
+00:04:19,860 --> 00:04:21,328
+<i><font color="white">♪ From the Clintons</font></i>
+<i><font color="white">to the Obamas ♪</font></i>
+
+89
+00:04:21,394 --> 00:04:23,864
+<i><font color="white">♪ I keep it tight,</font></i>
+<i><font color="white">now they call... ♪</font></i>
+
+90
+00:04:25,265 --> 00:04:26,933
+<i><font color="white">♪ Me... ♪</font></i>
+
+91
+00:04:27,000 --> 00:04:29,236
+<i><font color="white">♪ Mother ♪</font></i>
+
+92
+00:04:32,672 --> 00:04:35,776
+[cheers and applause]
+
+93
+00:04:42,449 --> 00:04:43,717
+Everybody say love.
+
+94
+00:04:43,784 --> 00:04:44,718
+Love!
+
+95
+00:04:44,785 --> 00:04:46,219
+Everybody say love.
+
+96
+00:04:46,286 --> 00:04:47,420
+Love!
+
+97
+00:04:47,487 --> 00:04:49,723
+Now take that
+to your special prosecutor
+
+98
+00:04:49,790 --> 00:04:51,191
+and investigate it.
+
+99
+00:04:51,258 --> 00:04:54,594
+[cheers and applause]
+
+100
+00:04:54,661 --> 00:04:56,663
+Welcome
+to the grand finale
+
+101
+00:04:56,730 --> 00:04:58,598
+of <i><font color="white">RuPaul's Drag Race.</font></i>
+
+102
+00:04:58,665 --> 00:05:02,269
+[cheers and applause]
+
+103
+00:05:02,335 --> 00:05:05,605
+This season, the lip syncs
+were on everybody's lips.
+
+104
+00:05:07,440 --> 00:05:09,676
+Valentina, you know
+what I'm talking about, girl.
+
+105
+00:05:09,743 --> 00:05:11,745
+[cheering]
+
+106
+00:05:11,812 --> 00:05:15,916
+So tonight,
+for the first time
+
+107
+00:05:15,982 --> 00:05:18,018
+in <i><font color="white">Drag Race </font></i>herstory,
+
+108
+00:05:18,084 --> 00:05:20,787
+on this stage
+our top four queens
+
+109
+00:05:20,854 --> 00:05:24,090
+are going to have to lip sync
+for the crown.
+
+110
+00:05:24,157 --> 00:05:26,960
+[cheering]
+
+111
+00:05:27,027 --> 00:05:29,462
+Two by two
+they'll face off,
+
+112
+00:05:29,529 --> 00:05:33,233
+and in the end,
+one queen standing
+
+113
+00:05:33,300 --> 00:05:36,903
+will be crowned
+America's next drag superstar.
+
+114
+00:05:38,305 --> 00:05:41,608
+As my high school dealer
+Duane used to say,
+
+115
+00:05:41,675 --> 00:05:44,511
+that's some good shit,
+right?
+
+116
+00:05:45,579 --> 00:05:48,648
+Now, before the competition
+reignites,
+
+117
+00:05:48,715 --> 00:05:50,984
+I want to say hi
+to my Judge Judys,
+
+118
+00:05:51,051 --> 00:05:53,019
+Michelle Visage,
+Carson Kressley,
+
+119
+00:05:53,086 --> 00:05:55,222
+and Ross Mathews.
+
+120
+00:05:55,288 --> 00:05:56,523
+You gotta work.
+
+121
+00:05:56,590 --> 00:05:58,859
+You've gotta work
+tonight, bitch.
+
+122
+00:06:00,660 --> 00:06:03,196
+Now to our top four.
+
+123
+00:06:03,263 --> 00:06:05,765
+[cheers and applause]
+
+124
+00:06:05,832 --> 00:06:07,734
+A little later tonight,
+you're gonna find out
+
+125
+00:06:07,801 --> 00:06:10,503
+who's going to lip sync
+against who.
+
+126
+00:06:10,570 --> 00:06:11,972
+So be ready to mop the floor
+
+127
+00:06:12,038 --> 00:06:15,408
+with your charisma, uniqueness,
+nerve and talent.
+
+128
+00:06:15,475 --> 00:06:19,279
+But for now,
+I just have one thing to say.
+
+129
+00:06:19,346 --> 00:06:21,448
+Gentlemen,
+start your engines,
+
+130
+00:06:21,514 --> 00:06:23,884
+and may the best woman win.
+
+131
+00:06:23,950 --> 00:06:26,453
+[cheers and applause]
+
+132
+00:06:26,519 --> 00:06:28,121
+<i><font color="white">The winner</font></i>
+<i><font color="white">of </font></i>RuPaul's Drag Race
+
+133
+00:06:28,188 --> 00:06:29,623
+<i><font color="white">receives a one-year supply</font></i>
+
+134
+00:06:29,689 --> 00:06:32,125
+<i><font color="white">of Anastasia</font></i>
+<i><font color="white">Beverly Hills cosmetics</font></i>
+
+135
+00:06:32,192 --> 00:06:34,794
+<i><font color="white">and $100,000.</font></i>
+
+136
+00:06:34,861 --> 00:06:36,129
+<i><font color="white">♪ May the best woman ♪</font></i>
+
+137
+00:06:36,196 --> 00:06:37,464
+<i><font color="white">♪ Best woman win ♪</font></i>
+
+138
+00:06:37,530 --> 00:06:39,199
+[RuPaul laughs]
+
+139
+00:06:39,499 --> 00:06:40,934
+[cheers and applause]
+
+140
+00:06:41,368 --> 00:06:42,435
+[RuPaul]
+Now, in a moment,
+
+141
+00:06:42,502 --> 00:06:44,604
+our top four queens
+will face off
+
+142
+00:06:44,671 --> 00:06:47,774
+in an epic sudden death
+lip sync smackdown.
+
+143
+00:06:47,841 --> 00:06:50,343
+Now let's get things popping
+
+144
+00:06:50,410 --> 00:06:52,445
+with our top four queens.
+
+145
+00:06:54,047 --> 00:06:57,183
+First, a groundbreaking queen
+from New York City.
+
+146
+00:06:57,250 --> 00:06:58,351
+Take a look.
+
+147
+00:06:58,418 --> 00:06:59,719
+[Peppermint]
+<i><font color="white">I am Peppermint,</font></i>
+
+148
+00:06:59,786 --> 00:07:01,655
+<i><font color="white">and I am sweet and sassy.</font></i>
+
+149
+00:07:01,721 --> 00:07:03,723
+[Carson]
+<i><font color="white">The entire point of drag</font></i>
+
+150
+00:07:03,790 --> 00:07:06,693
+<i><font color="white">is to give the middle finger</font></i>
+<i><font color="white">to rules of gender.</font></i>
+
+151
+00:07:06,760 --> 00:07:08,094
+[RuPaul] <i><font color="white">Take it</font></i>
+<i><font color="white">to the runway, runway.</font></i>
+
+152
+00:07:08,161 --> 00:07:10,096
+[Peppermint]
+<i><font color="white">♪ Tippytoe, here you go ♪</font></i>
+
+153
+00:07:10,163 --> 00:07:11,097
+<i><font color="white">♪ With the number one queen ♪</font></i>
+
+154
+00:07:11,164 --> 00:07:13,233
+<i><font color="white">♪ It's P-E-P-P-E-R ♪</font></i>
+
+155
+00:07:13,300 --> 00:07:14,501
+<i><font color="white">♪ Bitch,</font></i>
+<i><font color="white">you know the rest ♪</font></i>
+
+156
+00:07:14,567 --> 00:07:15,969
+[all laugh]
+
+157
+00:07:16,036 --> 00:07:19,272
+[cheers and applause]
+
+158
+00:07:19,339 --> 00:07:20,440
+Hey, Peppermint.
+
+159
+00:07:20,507 --> 00:07:22,809
+Hey, Ru.
+
+160
+00:07:22,876 --> 00:07:23,977
+Now, we are all
+looking forward
+
+161
+00:07:24,044 --> 00:07:26,746
+to some killer lip syncs
+this evening.
+
+162
+00:07:26,813 --> 00:07:27,881
+Are you ready?
+
+163
+00:07:27,948 --> 00:07:30,617
+-Are you ready?
+-Oh, yeah, I'm ready.
+
+164
+00:07:30,684 --> 00:07:32,152
+[laughs]
+
+165
+00:07:32,218 --> 00:07:34,888
+Now, you've been dubbed the
+lip sync assassin this season.
+
+166
+00:07:34,955 --> 00:07:36,356
+What do you say to that?
+
+167
+00:07:36,423 --> 00:07:40,260
+I say just let me know
+where to aim.
+
+168
+00:07:40,327 --> 00:07:42,395
+[laughs]
+
+169
+00:07:42,462 --> 00:07:45,532
+[cheers and applause]
+
+170
+00:07:45,598 --> 00:07:49,135
+Now, who's here
+to support you tonight?
+
+171
+00:07:49,202 --> 00:07:51,838
+Well, I have
+my beautiful mother
+
+172
+00:07:51,905 --> 00:07:53,306
+here to support me.
+
+173
+00:07:53,373 --> 00:07:54,808
+Hi, Mama Peppermint.
+
+174
+00:07:54,874 --> 00:07:57,544
+And one of
+my closest girlfriends,
+
+175
+00:07:57,610 --> 00:07:59,846
+Ms. Trace Lysette
+from <i><font color="white">Transparent.</font></i>
+
+176
+00:07:59,913 --> 00:08:01,781
+Hey, girl.
+So, Trace, what was
+
+177
+00:08:01,848 --> 00:08:04,250
+your favorite Peppermint moment
+this season?
+
+178
+00:08:04,317 --> 00:08:05,552
+Her lip syncs,
+
+179
+00:08:05,618 --> 00:08:08,655
+because
+there is no substitute
+
+180
+00:08:08,722 --> 00:08:11,257
+for stage presence
+and talent.
+
+181
+00:08:11,324 --> 00:08:13,760
+-Ooh!
+-Thank you, Trace.
+
+182
+00:08:13,827 --> 00:08:17,130
+Now, Peppermint,
+we have a surprise message
+
+183
+00:08:17,197 --> 00:08:19,599
+from an old pal of yours.
+
+184
+00:08:19,666 --> 00:08:20,767
+Take a look.
+
+185
+00:08:20,834 --> 00:08:24,270
+Peppermint,
+I am so proud of you, girl.
+
+186
+00:08:24,337 --> 00:08:27,941
+You have been my sister
+for so many years,
+
+187
+00:08:28,008 --> 00:08:29,609
+and that has made it
+that much sweeter
+
+188
+00:08:29,676 --> 00:08:30,977
+watching you shine,
+
+189
+00:08:31,044 --> 00:08:34,848
+showing the world that being
+a proud transgender woman
+
+190
+00:08:34,914 --> 00:08:36,549
+is not incompatible
+
+191
+00:08:36,616 --> 00:08:39,753
+with being America's
+next drag superstar.
+
+192
+00:08:39,819 --> 00:08:41,354
+You can have them both.
+
+193
+00:08:41,421 --> 00:08:42,555
+I love you, Peppermint.
+
+194
+00:08:42,622 --> 00:08:44,124
+I love you, <i><font color="white">Drag Race.</font></i>
+
+195
+00:08:44,190 --> 00:08:47,494
+Shantay, you will
+always stay in my heart.
+
+196
+00:08:47,560 --> 00:08:50,997
+Now, Peppermint,
+a lot of people get confused
+
+197
+00:08:51,064 --> 00:08:53,033
+about how can you be
+a proud transwoman
+
+198
+00:08:53,099 --> 00:08:54,167
+and be a drag queen.
+
+199
+00:08:54,234 --> 00:08:55,935
+What do you say
+to those people?
+
+200
+00:08:56,002 --> 00:08:57,670
+Transwomen
+have always contributed
+
+201
+00:08:57,737 --> 00:09:00,006
+to the wonderful art form
+of drag
+
+202
+00:09:00,073 --> 00:09:02,308
+since the beginning of time.
+
+203
+00:09:02,375 --> 00:09:04,044
+This is not new,
+
+204
+00:09:04,110 --> 00:09:06,479
+and my contribution to drag
+
+205
+00:09:06,546 --> 00:09:09,049
+is as powerful
+as any gay man.
+
+206
+00:09:09,115 --> 00:09:11,051
+One last question.
+
+207
+00:09:11,117 --> 00:09:13,753
+Now, since this season's
+makeover challenge,
+
+208
+00:09:13,820 --> 00:09:17,357
+have you heard from
+our cameraman Sarge?
+
+209
+00:09:18,758 --> 00:09:21,428
+{n8}Uh, I have not.
+
+210
+00:09:21,494 --> 00:09:24,397
+Unfortunately,
+Sarge had another job,
+
+211
+00:09:24,464 --> 00:09:26,399
+but we did find Wintergreen
+
+212
+00:09:26,466 --> 00:09:28,401
+hanging out
+in the parking lot
+
+213
+00:09:28,468 --> 00:09:30,537
+at the Waffle Hut
+in Pacoima.
+
+214
+00:09:30,603 --> 00:09:32,872
+Please welcome back
+Wintergreen.
+
+215
+00:09:32,939 --> 00:09:35,575
+[cheers and applause]
+
+216
+00:09:35,642 --> 00:09:39,079
+[laughs]
+
+217
+00:09:40,780 --> 00:09:42,882
+Oh!
+
+218
+00:09:42,949 --> 00:09:46,086
+Wintergreen,
+you look marvelous.
+
+219
+00:09:46,152 --> 00:09:49,255
+This is all you, honey.
+
+220
+00:09:49,322 --> 00:09:50,957
+[all laugh]
+
+221
+00:09:51,024 --> 00:09:54,527
+Well, Peppermint,
+
+222
+00:09:54,594 --> 00:09:56,463
+thank you for giving us
+Wintergreen
+
+223
+00:09:56,529 --> 00:10:01,134
+and for filling this season
+with sass and class.
+
+224
+00:10:01,201 --> 00:10:03,903
+[applause]
+
+225
+00:10:03,970 --> 00:10:06,840
+Next, a queen
+who blew our minds
+
+226
+00:10:06,906 --> 00:10:08,641
+with her beauty
+and her brains.
+
+227
+00:10:08,708 --> 00:10:09,742
+Take a look.
+
+228
+00:10:09,809 --> 00:10:12,078
+[Sasha]
+<i><font color="white">My name is Sasha Velour.</font></i>
+
+229
+00:10:12,145 --> 00:10:15,515
+<i><font color="white">I am a fashiony,</font></i>
+<i><font color="white">artistic, weird queen.</font></i>
+
+230
+00:10:15,582 --> 00:10:16,683
+[Russian accent] <i><font color="white">If you</font></i>
+<i><font color="white">were my mother's daughter,</font></i>
+
+231
+00:10:16,749 --> 00:10:18,251
+<i><font color="white">she would drown you</font></i>
+<i><font color="white">in river.</font></i>
+
+232
+00:10:18,318 --> 00:10:21,387
+There's something
+extremely modern
+
+233
+00:10:21,454 --> 00:10:22,722
+about your style.
+
+234
+00:10:22,789 --> 00:10:24,491
+<i><font color="white">♪ If you wanna join</font></i>
+<i><font color="white">the revolution ♪</font></i>
+
+235
+00:10:24,557 --> 00:10:26,593
+<i><font color="white">♪ Innovate,</font></i>
+<i><font color="white">that's my solution ♪</font></i>
+
+236
+00:10:26,659 --> 00:10:28,027
+<i><font color="white">♪ Da da da da da da boom ♪</font></i>
+
+237
+00:10:29,963 --> 00:10:30,797
+[cheers and applause]
+
+238
+00:10:30,864 --> 00:10:32,966
+Sasha Velour, welcome.
+
+239
+00:10:33,032 --> 00:10:35,869
+[cheers and applause]
+
+240
+00:10:35,935 --> 00:10:38,438
+Now, you were never
+in the bottom this season.
+
+241
+00:10:38,505 --> 00:10:40,240
+You never had to lip sync
+for your life.
+
+242
+00:10:40,306 --> 00:10:42,876
+Are you ready to lip sync for
+the crown tonight?
+
+243
+00:10:42,942 --> 00:10:44,177
+I mean, that's the thing.
+
+244
+00:10:44,244 --> 00:10:46,713
+If I actually do have
+a regret about this season,
+
+245
+00:10:46,779 --> 00:10:48,648
+it's not getting to show
+the passion
+
+246
+00:10:48,715 --> 00:10:50,517
+that I love getting
+to express in the lip sync.
+
+247
+00:10:50,583 --> 00:10:51,518
+I'm thrilled.
+I'm ready.
+
+248
+00:10:51,584 --> 00:10:53,119
+Good. Good.
+
+249
+00:10:53,186 --> 00:10:54,621
+[cheers and applause]
+
+250
+00:10:54,687 --> 00:10:57,157
+Sasha, this season
+you helped teach the children
+
+251
+00:10:57,223 --> 00:10:59,859
+about our rich gay history.
+
+252
+00:10:59,926 --> 00:11:02,328
+Yeah, they say that
+if you look into a mirror
+
+253
+00:11:02,395 --> 00:11:04,797
+and talk about sad things,
+I appear behind you
+
+254
+00:11:04,864 --> 00:11:07,267
+to give you
+a queer history lesson.
+
+255
+00:11:07,333 --> 00:11:08,668
+[laughs]
+
+256
+00:11:08,735 --> 00:11:10,670
+Drag queens
+have always been the keepers
+
+257
+00:11:10,737 --> 00:11:11,938
+of our queer history.
+
+258
+00:11:12,005 --> 00:11:14,274
+We make it, we tell it,
+
+259
+00:11:14,340 --> 00:11:16,109
+we remember it,
+we mis-remember it,
+
+260
+00:11:16,176 --> 00:11:18,111
+and we love it,
+and I'm so glad
+
+261
+00:11:18,178 --> 00:11:20,346
+that I got to help
+bring that tradition
+
+262
+00:11:20,413 --> 00:11:21,981
+onto the show
+in my own little way.
+
+263
+00:11:22,048 --> 00:11:24,017
+[cheers and applause]
+
+264
+00:11:24,083 --> 00:11:26,486
+Okay, now are you ready
+for a surprise message
+
+265
+00:11:26,553 --> 00:11:28,588
+from a big fan of yours?
+
+266
+00:11:28,655 --> 00:11:29,622
+{n8}-Sure.
+-All right.
+
+267
+00:11:29,689 --> 00:11:31,024
+Hey, Sasha,
+it's Katy Perry.
+
+268
+00:11:31,090 --> 00:11:32,525
+I'm so sorry
+I can't be there.
+
+269
+00:11:32,592 --> 00:11:34,928
+I just want to say hello
+and that I love you
+
+270
+00:11:34,994 --> 00:11:36,863
+and thank God for you.
+
+271
+00:11:36,930 --> 00:11:39,232
+[cheers and applause]
+
+272
+00:11:39,299 --> 00:11:40,767
+[RuPaul] Isn't that wonderful?
+
+273
+00:11:40,833 --> 00:11:43,870
+So, Sasha, who's here
+rooting for you tonight?
+
+274
+00:11:43,937 --> 00:11:47,674
+Well, I have my dad,
+Papa Velour.
+
+275
+00:11:47,740 --> 00:11:49,175
+[RuPaul] Well.
+
+276
+00:11:49,242 --> 00:11:52,045
+And my boyfriend
+Johnny Velour.
+
+277
+00:11:52,111 --> 00:11:55,782
+Ahh. Now, what was it like
+watching Sasha?
+
+278
+00:11:55,848 --> 00:11:58,017
+You did watch the show
+on television, right?
+
+279
+00:11:58,084 --> 00:12:01,020
+{n8}We often did watch parties
+at my house in Illinois.
+
+280
+00:12:01,087 --> 00:12:03,823
+{n8}I watched every show
+and all the "Untuckeds"
+
+281
+00:12:03,890 --> 00:12:05,258
+sometimes more than once.
+
+282
+00:12:05,325 --> 00:12:08,261
+[cheers and applause]
+
+283
+00:12:09,963 --> 00:12:12,799
+Now, I've heard you,
+Sasha, talk before
+
+284
+00:12:12,865 --> 00:12:17,237
+about how your late mother
+inspired your drag.
+
+285
+00:12:17,303 --> 00:12:21,007
+What do you think she'd say
+if she were here tonight?
+
+286
+00:12:21,074 --> 00:12:23,776
+She'd say, "Too much."
+
+287
+00:12:23,843 --> 00:12:27,547
+Seriously, I think
+she would be so proud of me
+
+288
+00:12:27,614 --> 00:12:29,882
+for going from
+a little boy
+
+289
+00:12:29,949 --> 00:12:32,252
+who wore dresses
+in the living room
+
+290
+00:12:32,318 --> 00:12:35,188
+to a little boy who wore
+dresses on this grand finale.
+
+291
+00:12:35,255 --> 00:12:36,322
+I love it.
+
+292
+00:12:36,389 --> 00:12:39,125
+[cheers and applause]
+
+293
+00:12:39,192 --> 00:12:42,061
+Okay, now,
+what would it mean to you
+
+294
+00:12:42,128 --> 00:12:44,964
+to be crowned
+America's next drag superstar?
+
+295
+00:12:45,031 --> 00:12:47,300
+It would be
+a dream come true.
+
+296
+00:12:47,367 --> 00:12:48,635
+An honor.
+
+297
+00:12:48,701 --> 00:12:50,737
+I feel that
+the drag I do
+
+298
+00:12:50,803 --> 00:12:53,039
+is a little bit different.
+
+299
+00:12:53,106 --> 00:12:55,808
+It pushes the boundaries
+for what people might expect.
+
+300
+00:12:55,875 --> 00:12:58,845
+And I believe that
+that is the future of drag,
+
+301
+00:12:58,911 --> 00:13:01,147
+and I am so honored
+to represent that.
+
+302
+00:13:01,214 --> 00:13:03,149
+[cheers and applause]
+
+303
+00:13:03,216 --> 00:13:05,051
+Sasha Velour,
+I want to thank you
+
+304
+00:13:05,118 --> 00:13:06,552
+for sharing your uniqueness
+
+305
+00:13:06,619 --> 00:13:08,554
+and elevating
+this competition.
+
+306
+00:13:08,621 --> 00:13:10,690
+Now, in moments
+our top four queens
+
+307
+00:13:10,757 --> 00:13:13,493
+will face off
+in an epic lip sync smackdown
+
+308
+00:13:13,559 --> 00:13:14,727
+for the crown.
+
+309
+00:13:14,794 --> 00:13:18,331
+But first, our next queen
+is a true triple threat.
+
+310
+00:13:18,398 --> 00:13:19,999
+She's funny,
+she can lip sync,
+
+311
+00:13:20,066 --> 00:13:23,536
+and she looks good
+with a hotdog on her head.
+
+312
+00:13:25,305 --> 00:13:28,141
+[Shea] <i><font color="white">My name's Shea Coulee,</font></i>
+<i><font color="white">and I didn't come to play.</font></i>
+
+313
+00:13:28,207 --> 00:13:29,609
+<i><font color="white">I came to slay.</font></i>
+
+314
+00:13:29,676 --> 00:13:32,545
+[all laugh]
+
+315
+00:13:32,612 --> 00:13:34,847
+[Michelle] <i><font color="white">She's a great</font></i>
+<i><font color="white">entertainer, she's a great dancer,</font></i>
+
+316
+00:13:34,914 --> 00:13:36,349
+<i><font color="white">she's a great actress.</font></i>
+
+317
+00:13:36,416 --> 00:13:37,750
+<i><font color="white">♪ To show 'em how,</font></i>
+<i><font color="white">these bitches ♪</font></i>
+
+318
+00:13:37,817 --> 00:13:39,886
+<i><font color="white">♪ I own 'em, got that?</font></i>
+<i><font color="white">Supermodel switch ♪</font></i>
+
+319
+00:13:39,952 --> 00:13:42,088
+<i><font color="white">♪ Ms. Coulee, she a real,</font></i>
+<i><font color="white">real bad bitch, uh ♪</font></i>
+
+320
+00:13:42,155 --> 00:13:46,693
+[cheers and applause]
+
+321
+00:13:46,759 --> 00:13:49,195
+Shantay, Coulee.
+What do you say?
+
+322
+00:13:49,262 --> 00:13:51,297
+Are you ready to lip sync
+for the crown tonight?
+
+323
+00:13:51,364 --> 00:13:53,433
+-I was born ready, Ru.
+-Ooh, all right.
+
+324
+00:13:53,499 --> 00:13:56,069
+[cheers and applause]
+
+325
+00:13:56,135 --> 00:13:58,037
+So tell me this.
+
+326
+00:13:58,104 --> 00:14:00,473
+Who would you not want
+to lip sync against?
+
+327
+00:14:00,540 --> 00:14:03,276
+Sasha and I have
+a really great friendship,
+
+328
+00:14:03,343 --> 00:14:05,778
+and I know it would be
+super dramatic
+
+329
+00:14:05,845 --> 00:14:08,381
+if we had to lip sync
+against one another.
+
+330
+00:14:08,448 --> 00:14:11,417
+Luckily I'm a messy bitch
+who loves drama.
+
+331
+00:14:11,484 --> 00:14:14,253
+[laughs]
+
+332
+00:14:16,723 --> 00:14:19,325
+Now, I know
+that you and your family
+
+333
+00:14:19,392 --> 00:14:23,262
+have had a really rough go
+of it this past year.
+
+334
+00:14:23,329 --> 00:14:27,200
+Do you mind talking
+a little bit about that?
+
+335
+00:14:27,266 --> 00:14:31,504
+Um...two days before
+the cast was announced,
+
+336
+00:14:31,571 --> 00:14:35,041
+I lost my dad to cancer.
+
+337
+00:14:35,108 --> 00:14:40,446
+And...a month after that,
+I lost my sister to cancer.
+
+338
+00:14:40,513 --> 00:14:43,082
+And my dad,
+
+339
+00:14:43,149 --> 00:14:46,185
+we had gone through such
+an amazing journey together,
+
+340
+00:14:46,252 --> 00:14:51,290
+of him understanding me and
+learning about who I was and...
+
+341
+00:14:54,894 --> 00:14:56,729
+[Shea]
+I know that he watches me.
+
+342
+00:14:56,796 --> 00:14:58,698
+-Absolutely.
+-And I feel him.
+
+343
+00:14:58,765 --> 00:15:00,566
+-Yeah.
+-All the time.
+
+344
+00:15:00,633 --> 00:15:03,069
+-Sorry.
+-[RuPaul] Yes. I feel that.
+
+345
+00:15:03,136 --> 00:15:06,806
+[cheers and applause]
+
+346
+00:15:06,873 --> 00:15:08,574
+Now, you told me
+
+347
+00:15:08,641 --> 00:15:11,344
+that your mother
+is a minister.
+
+348
+00:15:11,411 --> 00:15:13,946
+[laughs] Yes. I mean,
+she's a reverend now.
+
+349
+00:15:14,013 --> 00:15:16,182
+-She done come up.
+-Oh.
+
+350
+00:15:16,249 --> 00:15:18,184
+Are you Reverend Coulee?
+
+351
+00:15:18,251 --> 00:15:20,787
+-Yes.
+-Hello.
+
+352
+00:15:20,853 --> 00:15:21,954
+[applause]
+
+353
+00:15:22,021 --> 00:15:26,159
+Does Shea take after you
+or her father?
+
+354
+00:15:26,225 --> 00:15:29,162
+His creativity
+comes from his father.
+
+355
+00:15:29,228 --> 00:15:31,831
+His rhythm comes from me.
+
+356
+00:15:31,898 --> 00:15:33,766
+[laughter and applause]
+
+357
+00:15:33,833 --> 00:15:36,702
+All right.
+Thank you, Reverend Coulee.
+
+358
+00:15:36,769 --> 00:15:37,804
+Thank you very much.
+
+359
+00:15:37,870 --> 00:15:39,572
+You're welcome.
+
+360
+00:15:39,639 --> 00:15:42,341
+Now, Shea,
+one of my favorite moments
+
+361
+00:15:42,408 --> 00:15:46,446
+is when you took
+the character of Blac Chyna,
+
+362
+00:15:46,512 --> 00:15:50,316
+and I'm not the only one
+who felt it was stellar.
+
+363
+00:15:50,383 --> 00:15:51,384
+Hey, Shea Coulee.
+
+364
+00:15:51,451 --> 00:15:53,019
+Honey,
+you did not come to play.
+
+365
+00:15:53,085 --> 00:15:54,086
+You came to slay.
+
+366
+00:15:54,153 --> 00:15:55,588
+And yes,
+you did steal the show,
+
+367
+00:15:55,655 --> 00:15:57,824
+I mean, 'cause
+that's what Blac Chyna does.
+
+368
+00:15:57,890 --> 00:16:00,893
+Now make sure you go out there
+and get that crown.
+
+369
+00:16:00,960 --> 00:16:02,228
+All right, I love you.
+
+370
+00:16:02,295 --> 00:16:03,763
+All right,
+I'm out, I'm out, I'm out.
+
+371
+00:16:03,830 --> 00:16:07,133
+[cheers and applause]
+
+372
+00:16:07,200 --> 00:16:09,902
+Whoa!
+
+373
+00:16:09,969 --> 00:16:10,903
+That was a nice car.
+
+374
+00:16:10,970 --> 00:16:12,705
+-It certainly was.
+-Yeah.
+
+375
+00:16:12,772 --> 00:16:15,007
+So what would it mean
+to you
+
+376
+00:16:15,074 --> 00:16:17,643
+to become America's
+next drag superstar?
+
+377
+00:16:17,710 --> 00:16:18,945
+It would be an era
+
+378
+00:16:19,011 --> 00:16:21,547
+of sickening
+black drag queens
+
+379
+00:16:21,614 --> 00:16:25,318
+running this world
+continued.
+
+380
+00:16:25,384 --> 00:16:27,119
+I love it.
+
+381
+00:16:27,186 --> 00:16:30,890
+Shea Coulee, thank you
+for showing the children
+
+382
+00:16:30,957 --> 00:16:33,092
+how it is done.
+
+383
+00:16:33,159 --> 00:16:36,496
+[cheers and applause]
+
+384
+00:16:36,562 --> 00:16:38,865
+Up next, a queen
+who is so much more
+
+385
+00:16:38,931 --> 00:16:40,600
+than just a tight tuck.
+
+386
+00:16:40,666 --> 00:16:44,003
+She's got a big,
+juicy ass, too.
+
+387
+00:16:44,070 --> 00:16:46,205
+[Trinity]
+<i><font color="white">The body is here, bitches.</font></i>
+
+388
+00:16:46,272 --> 00:16:47,673
+[Michelle]
+<i><font color="white">When this first started,</font></i>
+
+389
+00:16:47,740 --> 00:16:48,841
+<i><font color="white">we just saw a pageant girl.</font></i>
+
+390
+00:16:48,908 --> 00:16:49,842
+I call shade.
+
+391
+00:16:49,909 --> 00:16:51,010
+[Michelle]
+<i><font color="white">You have done things</font></i>
+
+392
+00:16:51,077 --> 00:16:53,379
+<i><font color="white">you didn't know</font></i>
+<i><font color="white">you had in you.</font></i>
+
+393
+00:16:53,446 --> 00:16:55,515
+Children!
+
+394
+00:16:55,581 --> 00:16:58,751
+<i><font color="white">♪ Just bow down,</font></i>
+<i><font color="white">'cause I'm the new Miss Thing ♪</font></i>
+
+395
+00:16:58,818 --> 00:17:01,754
+[cheers and applause]
+
+396
+00:17:01,821 --> 00:17:05,391
+[RuPaul]
+Trinity, when you started the season,
+
+397
+00:17:05,458 --> 00:17:07,660
+your approval ratings
+were low.
+
+398
+00:17:07,727 --> 00:17:10,196
+But you turned things
+around.
+
+399
+00:17:10,263 --> 00:17:11,697
+How'd you do that?
+
+400
+00:17:11,764 --> 00:17:14,267
+And speak slow
+because Donald Trump is watching
+
+401
+00:17:14,333 --> 00:17:15,535
+and he wants to know.
+
+402
+00:17:15,601 --> 00:17:17,970
+[cheers and laughter]
+
+403
+00:17:18,037 --> 00:17:21,207
+Honestly, I have
+a resting bitch face.
+
+404
+00:17:21,274 --> 00:17:25,311
+It's just people hate me
+until they get to know me
+
+405
+00:17:25,378 --> 00:17:26,512
+and they get to know
+my humor,
+
+406
+00:17:26,579 --> 00:17:30,316
+and then apparently
+America likes it, so...
+
+407
+00:17:30,383 --> 00:17:31,951
+-[laughter and applause]
+-Carry on.
+
+408
+00:17:32,718 --> 00:17:35,087
+So who's here
+supporting you tonight?
+
+409
+00:17:35,154 --> 00:17:41,327
+I have
+my much older sister Ginger
+
+410
+00:17:41,394 --> 00:17:43,930
+and my sugar dad--
+
+411
+00:17:43,996 --> 00:17:45,765
+I mean,
+my new boyfriend Leo.
+
+412
+00:17:45,831 --> 00:17:47,700
+[RuPaul] Oh.
+
+413
+00:17:47,767 --> 00:17:49,468
+How'd you two meet?
+
+414
+00:17:49,535 --> 00:17:53,806
+Well, I'm a good Southern
+Baptist Christian lady,
+
+415
+00:17:53,873 --> 00:17:55,975
+-so church.
+-[RuPaul] Oh, at church,
+
+416
+00:17:56,042 --> 00:18:00,012
+Also know as
+an adult gay dating app.
+
+417
+00:18:00,079 --> 00:18:02,748
+[RuPaul] Oh.
+[laughter and applause]
+
+418
+00:18:02,815 --> 00:18:06,385
+Leo, had you seen Trinity
+on TV before?
+
+419
+00:18:06,452 --> 00:18:07,720
+Yes, I did.
+
+420
+00:18:07,787 --> 00:18:10,056
+And did you think
+I'm gonna get some of that?
+
+421
+00:18:10,122 --> 00:18:13,292
+And I sure did
+and then some.
+
+422
+00:18:13,359 --> 00:18:15,561
+[all laugh]
+
+423
+00:18:15,628 --> 00:18:17,964
+-Yes.
+-[RuPaul] Oh, I love it.
+
+424
+00:18:18,030 --> 00:18:22,301
+Now, Trinity, your tuck got
+a lot of attention this season,
+
+425
+00:18:22,368 --> 00:18:25,204
+especially from
+the gorgeous Chris Pine
+
+426
+00:18:25,271 --> 00:18:27,340
+and the boys
+at <i><font color="white">Saturday Night Live.</font></i>
+
+427
+00:18:29,108 --> 00:18:30,076
+See that?
+
+428
+00:18:30,142 --> 00:18:33,346
+What was that like for you?
+
+429
+00:18:33,412 --> 00:18:35,014
+Girl, I just wanted
+to drop to my knees
+
+430
+00:18:35,081 --> 00:18:37,383
+and climb him like a tree.
+
+431
+00:18:37,450 --> 00:18:39,952
+[cheers and laughter]
+
+432
+00:18:40,019 --> 00:18:41,787
+If you're watching,
+please call me.
+
+433
+00:18:41,854 --> 00:18:43,122
+Uh-oh. All right.
+
+434
+00:18:43,189 --> 00:18:44,323
+Sorry, Leo.
+
+435
+00:18:44,390 --> 00:18:46,325
+[all laugh]
+
+436
+00:18:46,392 --> 00:18:48,628
+Well, here's
+a little something extra
+
+437
+00:18:48,694 --> 00:18:50,463
+from a true fan.
+
+438
+00:18:50,529 --> 00:18:52,064
+Hey,
+this is Bobby Moynihan
+
+439
+00:18:52,131 --> 00:18:53,799
+wishing Trinity Taylor
+good luck.
+
+440
+00:18:53,866 --> 00:18:56,135
+Us pageant bitches
+got to stick together.
+
+441
+00:18:56,202 --> 00:18:58,204
+Don't fuck it up.
+
+442
+00:18:58,270 --> 00:18:59,372
+Death drop!
+
+443
+00:18:59,438 --> 00:19:02,441
+[all laugh]
+
+444
+00:19:02,508 --> 00:19:05,878
+Yes.
+
+445
+00:19:05,945 --> 00:19:08,180
+Okay, Trinity,
+are you nervous
+
+446
+00:19:08,247 --> 00:19:09,582
+about lip syncing tonight?
+
+447
+00:19:09,649 --> 00:19:10,850
+Absolutely not.
+
+448
+00:19:10,916 --> 00:19:13,019
+This is what I do.
+I'm a performer.
+
+449
+00:19:13,085 --> 00:19:15,655
+So who would you not want
+to lip sync against?
+
+450
+00:19:15,721 --> 00:19:17,590
+None of 'em, girl.
+Bring 'em on, honey.
+
+451
+00:19:17,657 --> 00:19:18,924
+I'll lip sync to all of 'em.
+
+452
+00:19:18,991 --> 00:19:20,960
+Send 'em all packing, bitch.
+
+453
+00:19:21,027 --> 00:19:22,395
+[cheers and applause]
+
+454
+00:19:22,461 --> 00:19:24,430
+Ladies and gentlemen,
+Trinity Taylor.
+
+455
+00:19:24,497 --> 00:19:26,465
+[cheers and applause]
+
+456
+00:19:30,069 --> 00:19:31,570
+Ladies and gentlemen,
+
+457
+00:19:31,637 --> 00:19:34,840
+welcome to the stage
+our top four.
+
+458
+00:19:34,907 --> 00:19:37,410
+[cheers and applause]
+
+459
+00:19:37,476 --> 00:19:39,412
+Tonight one of you
+
+460
+00:19:39,478 --> 00:19:42,481
+will become America's
+next drag superstar.
+
+461
+00:19:42,548 --> 00:19:45,851
+But for the first time
+in <i><font color="white">Drag Race </font></i>herstory,
+
+462
+00:19:45,918 --> 00:19:48,954
+to win,
+you will have to survive
+
+463
+00:19:49,021 --> 00:19:52,591
+a lip sync smackdown
+for the crown.
+
+464
+00:19:52,658 --> 00:19:55,061
+To explain how it works,
+
+465
+00:19:55,127 --> 00:19:57,763
+here's our special
+<i><font color="white">Drag Race </font></i>correspondent
+
+466
+00:19:57,830 --> 00:19:58,964
+Ross Mathews.
+
+467
+00:19:59,031 --> 00:20:01,500
+Okay, tonight we'll start
+with four queens
+
+468
+00:20:01,567 --> 00:20:03,903
+but only one queen
+will take the crown.
+
+469
+00:20:03,969 --> 00:20:05,805
+First, a spin of the wheel
+
+470
+00:20:05,871 --> 00:20:08,007
+determines which two queens
+will face off
+
+471
+00:20:08,074 --> 00:20:09,608
+in lip sync number one.
+
+472
+00:20:09,675 --> 00:20:11,610
+Then the remaining
+two queens
+
+473
+00:20:11,677 --> 00:20:13,979
+will face off
+in lip sync number two.
+
+474
+00:20:14,046 --> 00:20:16,215
+The winners
+of those two lip syncs
+
+475
+00:20:16,282 --> 00:20:17,783
+will then go head to head
+
+476
+00:20:17,850 --> 00:20:20,920
+in the final
+lip sync for the crown.
+
+477
+00:20:20,986 --> 00:20:22,421
+And the winner will become
+
+478
+00:20:22,488 --> 00:20:25,324
+America's
+next drag superstar.
+
+479
+00:20:25,391 --> 00:20:27,593
+I'm so excited.
+
+480
+00:20:27,660 --> 00:20:29,295
+I'm gonna need to change.
+
+481
+00:20:29,361 --> 00:20:31,297
+Ru, back to you.
+
+482
+00:20:31,363 --> 00:20:32,364
+Thank you, Ross.
+
+483
+00:20:32,431 --> 00:20:34,333
+That sounds a lot like math.
+
+484
+00:20:34,400 --> 00:20:37,002
+Now, on this wheel
+
+485
+00:20:37,069 --> 00:20:39,839
+are the names
+of our top four queens.
+
+486
+00:20:39,905 --> 00:20:41,907
+Wherever the wheel stops
+
+487
+00:20:41,974 --> 00:20:45,544
+will determine which queen
+lip syncs first.
+
+488
+00:20:45,611 --> 00:20:47,680
+Ladies, are you ready?
+
+489
+00:20:47,747 --> 00:20:51,550
+[cheering]
+
+490
+00:20:51,617 --> 00:20:55,354
+All right, here we go.
+
+491
+00:20:55,421 --> 00:20:56,822
+"Big money."
+
+492
+00:20:56,889 --> 00:20:58,591
+[all laugh]
+
+493
+00:21:12,037 --> 00:21:14,106
+[cheering]
+
+494
+00:21:14,173 --> 00:21:18,310
+Well, Trinity,
+the wheel has spoken.
+
+495
+00:21:18,377 --> 00:21:22,414
+And now you get to choose
+who you will lip sync against.
+
+496
+00:21:22,481 --> 00:21:26,385
+Choose wisely.
+
+497
+00:21:28,120 --> 00:21:30,523
+I want a battle.
+
+498
+00:21:30,589 --> 00:21:32,525
+I choose Peppermint.
+
+499
+00:21:32,591 --> 00:21:35,961
+[cheers and applause]
+
+500
+00:21:41,100 --> 00:21:44,603
+That means Sasha and Shea,
+
+501
+00:21:44,670 --> 00:21:48,374
+you two will face off
+in tonight's second lip sync
+
+502
+00:21:48,440 --> 00:21:49,608
+coming up next.
+
+503
+00:21:51,076 --> 00:21:54,013
+You may leave the stage.
+
+504
+00:21:58,317 --> 00:22:00,653
+Okay, Peppermint,
+
+505
+00:22:00,719 --> 00:22:05,157
+you get to choose
+your lip sync song.
+
+506
+00:22:05,224 --> 00:22:08,093
+Oh, pit crew.
+
+507
+00:22:08,160 --> 00:22:12,231
+[cheers and applause]
+
+508
+00:22:12,298 --> 00:22:14,934
+Each of these boxes
+
+509
+00:22:15,000 --> 00:22:18,070
+contains one of my all-time
+favorite lip sync songs.
+
+510
+00:22:18,137 --> 00:22:21,774
+Peppermint, do you choose
+box number one
+
+511
+00:22:21,841 --> 00:22:24,643
+or box number two?
+
+512
+00:22:24,710 --> 00:22:27,947
+[audience shouts]
+
+513
+00:22:29,481 --> 00:22:31,250
+[cheering]
+
+514
+00:22:31,317 --> 00:22:34,386
+The crowd has spoken
+with box number two.
+
+515
+00:22:34,453 --> 00:22:38,123
+All right.
+Brice, open your box.
+
+516
+00:22:38,190 --> 00:22:41,694
+"Stronger"
+by Britney Spears.
+
+517
+00:22:41,760 --> 00:22:44,763
+[cheers and applause]
+
+518
+00:22:47,199 --> 00:22:49,001
+Okay, ladies,
+
+519
+00:22:49,068 --> 00:22:50,970
+assume the position.
+
+520
+00:22:56,942 --> 00:23:00,346
+Two queens
+stand behind me.
+
+521
+00:23:00,412 --> 00:23:02,248
+[laughter]
+
+522
+00:23:02,314 --> 00:23:05,117
+Ladies,
+this is your last chance
+
+523
+00:23:05,184 --> 00:23:08,120
+to impress me
+and save yourself
+
+524
+00:23:08,187 --> 00:23:10,289
+from elimination.
+
+525
+00:23:12,424 --> 00:23:14,326
+The time has come...
+[thunder]
+
+526
+00:23:14,393 --> 00:23:16,595
+for you to lip sync...
+
+527
+00:23:16,662 --> 00:23:20,299
+[echoing]
+for the crown!
+
+528
+00:23:20,366 --> 00:23:23,402
+[cheers and applause]
+
+529
+00:23:29,808 --> 00:23:31,644
+Good luck,
+
+530
+00:23:31,710 --> 00:23:34,413
+and don't fuck it up.
+
+531
+00:23:34,480 --> 00:23:39,118
+{n8}♪♪♪
+
+532
+00:23:43,088 --> 00:23:45,891
+<i><font color="white">♪ Hush, just stop ♪</font></i>
+
+533
+00:23:46,592 --> 00:23:49,895
+<i><font color="white">♪ There's nothing</font></i>
+<i><font color="white">you can do or say ♪</font></i>
+
+534
+00:23:49,962 --> 00:23:52,197
+<i><font color="white">♪ Baby ♪</font></i>
+
+535
+00:23:52,264 --> 00:23:54,833
+<i><font color="white">♪ I've had enough ♪</font></i>
+
+536
+00:23:54,900 --> 00:23:58,771
+<i><font color="white">♪ I'm not your property</font></i>
+<i><font color="white">as from today ♪</font></i>
+
+537
+00:23:58,837 --> 00:24:01,073
+<i><font color="white">♪ Baby ♪</font></i>
+
+538
+00:24:01,140 --> 00:24:08,380
+<i><font color="white">♪ You might think that</font></i>
+<i><font color="white">I won't make it on my own ♪</font></i>
+
+539
+00:24:08,447 --> 00:24:13,686
+<i><font color="white">♪ But now I'm stronger</font></i>
+<i><font color="white">than yesterday ♪</font></i>
+
+540
+00:24:13,752 --> 00:24:18,924
+<i><font color="white">♪ Now it's nothing</font></i>
+<i><font color="white">but my way ♪</font></i>
+
+541
+00:24:18,991 --> 00:24:25,564
+<i><font color="white">♪ My loneliness</font></i>
+<i><font color="white">ain't killing me no more ♪</font></i>
+
+542
+00:24:25,631 --> 00:24:29,335
+<i><font color="white">♪ I'm, I'm stronger ♪</font></i>
+
+543
+00:24:32,471 --> 00:24:35,140
+<i><font color="white">♪ Here I go on my own ♪</font></i>
+
+544
+00:24:36,442 --> 00:24:39,044
+<i><font color="white">♪ I don't need nobody,</font></i>
+<i><font color="white">not anybody ♪</font></i>
+
+545
+00:24:41,146 --> 00:24:43,449
+<i><font color="white">♪ Here I go ♪</font></i>
+
+546
+00:24:43,515 --> 00:24:45,684
+<i><font color="white">♪ Here I go, here I go ♪</font></i>
+
+547
+00:24:48,053 --> 00:24:50,789
+<i><font color="white">♪ Here I go, here I go ♪</font></i>
+
+548
+00:24:50,856 --> 00:24:55,861
+<i><font color="white">♪ Stronger than yesterday ♪</font></i>
+
+549
+00:24:55,928 --> 00:25:00,132
+<i><font color="white">♪ It's nothing but my way ♪</font></i>
+
+550
+00:25:00,199 --> 00:25:06,238
+<i><font color="white">♪ My loneliness</font></i>
+<i><font color="white">ain't killing me no more ♪</font></i>
+
+551
+00:25:06,305 --> 00:25:12,378
+<i><font color="white">♪ I'm, I'm stronger</font></i>
+<i><font color="white">than yesterday ♪</font></i>
+
+552
+00:25:12,444 --> 00:25:17,683
+<i><font color="white">♪ It's nothing but my way ♪</font></i>
+
+553
+00:25:17,750 --> 00:25:22,121
+<i><font color="white">♪ My loneliness</font></i>
+<i><font color="white">ain't killing me no more ♪</font></i>
+
+554
+00:25:22,187 --> 00:25:24,223
+<i><font color="white">♪ No more ♪</font></i>
+
+555
+00:25:24,289 --> 00:25:28,861
+<i><font color="white">♪ I'm stronger ♪</font></i>
+
+556
+00:25:28,927 --> 00:25:32,965
+[cheers and applause]
+
+557
+00:25:40,739 --> 00:25:44,543
+Ladies,
+I have made my decision.
+
+558
+00:25:44,610 --> 00:25:49,014
+The winner of tonight's
+first lip sync,
+
+559
+00:25:49,081 --> 00:25:50,783
+the queen moving on
+
+560
+00:25:50,849 --> 00:25:54,253
+to the final lip sync
+for the crown
+
+561
+00:25:54,319 --> 00:25:56,922
+will be...
+
+562
+00:26:00,893 --> 00:26:02,795
+Peppermint,
+shantay you stay.
+
+563
+00:26:02,861 --> 00:26:05,831
+[cheers and applause]
+
+564
+00:26:15,307 --> 00:26:17,342
+Con-drag-ulations.
+
+565
+00:26:17,409 --> 00:26:19,378
+You're moving on
+to the finals.
+
+566
+00:26:19,445 --> 00:26:21,180
+Go ahead and head backstage
+
+567
+00:26:21,246 --> 00:26:23,782
+and get ready for the lip sync
+for the crown.
+
+568
+00:26:25,584 --> 00:26:28,187
+Trinity Taylor,
+I'm sorry, my queen,
+
+569
+00:26:28,253 --> 00:26:30,355
+but this is not your time.
+
+570
+00:26:30,422 --> 00:26:33,859
+You are an amazing queen,
+
+571
+00:26:33,926 --> 00:26:36,395
+and thank you
+for an amazing season.
+
+572
+00:26:36,462 --> 00:26:39,465
+Now sashay away.
+
+573
+00:26:39,531 --> 00:26:42,401
+[cheers and applause]
+
+574
+00:26:48,907 --> 00:26:50,909
+Now welcome back
+to the stage
+
+575
+00:26:50,976 --> 00:26:53,879
+Sasha Velour
+and Shea Coulee.
+
+576
+00:26:53,946 --> 00:26:55,881
+Bring back my girls.
+
+577
+00:26:55,948 --> 00:26:59,451
+[cheers and applause]
+
+578
+00:27:04,656 --> 00:27:06,191
+Sasha and Shea,
+
+579
+00:27:06,258 --> 00:27:09,328
+let's find out what song
+you'll be lip syncing to.
+
+580
+00:27:09,394 --> 00:27:11,430
+Oh, pit crew.
+
+581
+00:27:15,033 --> 00:27:16,668
+Show us what you're packing.
+
+582
+00:27:18,203 --> 00:27:20,339
+Whitney Houston's
+"So Emotional."
+
+583
+00:27:20,405 --> 00:27:22,341
+[cheers and applause]
+
+584
+00:27:22,407 --> 00:27:25,744
+Sasha, Shea,
+assume the position.
+
+585
+00:27:30,415 --> 00:27:33,952
+Two queens stand behind me.
+
+586
+00:27:34,019 --> 00:27:36,755
+Ladies,
+this is your last chance
+
+587
+00:27:36,822 --> 00:27:39,992
+to impress me
+and save yourself
+
+588
+00:27:40,058 --> 00:27:41,493
+from elimination.
+
+589
+00:27:42,794 --> 00:27:45,197
+The time has come...
+[thunder]
+
+590
+00:27:45,264 --> 00:27:46,899
+for you to lip sync...
+
+591
+00:27:46,965 --> 00:27:49,601
+[echoing]
+for the crown!
+
+592
+00:27:58,343 --> 00:28:02,147
+Good luck
+and don't fuck it up.
+
+593
+00:28:02,214 --> 00:28:04,316
+{n8}♪♪♪
+
+594
+00:28:06,185 --> 00:28:08,921
+{n8}<i><font color="white">♪ I don't know</font></i>
+<i><font color="white">why I like it ♪</font></i>
+
+595
+00:28:08,987 --> 00:28:10,756
+<i><font color="white">♪ I just do ♪</font></i>
+
+596
+00:28:10,822 --> 00:28:13,225
+<i><font color="white">♪ I've been hearing</font></i>
+<i><font color="white">your heartbeat ♪</font></i>
+
+597
+00:28:13,292 --> 00:28:14,860
+<i><font color="white">♪ Inside of me ♪</font></i>
+
+598
+00:28:14,927 --> 00:28:18,330
+<i><font color="white">♪ I keep your photograph</font></i>
+<i><font color="white">beside my bed ♪</font></i>
+
+599
+00:28:18,397 --> 00:28:22,134
+<i><font color="white">♪ Living in a world</font></i>
+<i><font color="white">of fantasies ♪</font></i>
+
+600
+00:28:22,201 --> 00:28:26,138
+<i><font color="white">♪ I can't get you</font></i>
+<i><font color="white">out of my head ♪</font></i>
+
+601
+00:28:26,205 --> 00:28:28,974
+<i><font color="white">♪ I remember</font></i>
+<i><font color="white">the way that we touched ♪</font></i>
+
+602
+00:28:29,041 --> 00:28:35,080
+<i><font color="white">♪ I wish I didn't like it</font></i>
+<i><font color="white">so much ♪</font></i>
+
+603
+00:28:37,082 --> 00:28:40,686
+<i><font color="white">♪ I get so emotional,</font></i>
+<i><font color="white">baby ♪</font></i>
+
+604
+00:28:40,752 --> 00:28:45,157
+<i><font color="white">♪ Every time</font></i>
+<i><font color="white">I think of you ♪</font></i>
+
+605
+00:28:45,224 --> 00:28:48,393
+<i><font color="white">♪ I get so emotional,</font></i>
+<i><font color="white">baby ♪</font></i>
+
+606
+00:28:48,460 --> 00:28:50,429
+<i><font color="white">♪ Ain't it shocking what ♪</font></i>
+
+607
+00:28:50,495 --> 00:28:52,965
+<i><font color="white">♪ Love can do? ♪</font></i>
+
+608
+00:28:53,031 --> 00:28:55,801
+<i><font color="white">♪ Ain't it shocking</font></i>
+<i><font color="white">what love can do? ♪</font></i>
+
+609
+00:28:55,867 --> 00:28:59,938
+<i><font color="white">♪ Ain't it shocking</font></i>
+<i><font color="white">what love can do? ♪</font></i>
+
+610
+00:29:00,005 --> 00:29:05,143
+<i><font color="white">♪ Hey, I gotta watch you</font></i>
+<i><font color="white">walk in the room, baby ♪</font></i>
+
+611
+00:29:05,210 --> 00:29:09,248
+<i><font color="white">♪ I gotta watch you</font></i>
+<i><font color="white">walk out ♪</font></i>
+
+612
+00:29:09,314 --> 00:29:12,084
+<i><font color="white">♪ I like the animal way</font></i>
+<i><font color="white">you move ♪</font></i>
+
+613
+00:29:12,150 --> 00:29:15,287
+<i><font color="white">♪ And when you talk,</font></i>
+<i><font color="white">I just watch your mouth ♪</font></i>
+
+614
+00:29:15,354 --> 00:29:19,358
+<i><font color="white">♪ Oh, I remember</font></i>
+<i><font color="white">the way that we touched ♪</font></i>
+
+615
+00:29:19,424 --> 00:29:25,530
+<i><font color="white">♪ I wish I didn't like it</font></i>
+<i><font color="white">so much ♪</font></i>
+
+616
+00:29:25,597 --> 00:29:31,069
+<i><font color="white">♪ Oh, I get</font></i>
+<i><font color="white">so emotional, baby ♪</font></i>
+
+617
+00:29:31,136 --> 00:29:35,641
+<i><font color="white">♪ Every time</font></i>
+<i><font color="white">I think of you ♪</font></i>
+
+618
+00:29:35,707 --> 00:29:39,077
+<i><font color="white">♪ I get so emotional,</font></i>
+<i><font color="white">baby ♪</font></i>
+
+619
+00:29:39,144 --> 00:29:41,046
+<i><font color="white">♪ Ain't it shocking what ♪</font></i>
+
+620
+00:29:41,113 --> 00:29:43,048
+<i><font color="white">♪ Love can do? ♪</font></i>
+
+621
+00:29:43,115 --> 00:29:47,085
+<i><font color="white">♪ I get so emotional,</font></i>
+<i><font color="white">baby ♪</font></i>
+
+622
+00:29:47,152 --> 00:29:49,955
+<i><font color="white">♪ Every time</font></i>
+<i><font color="white">I think of you ♪</font></i>
+
+623
+00:29:50,022 --> 00:29:52,124
+<i><font color="white">♪ Baby, baby, baby ♪</font></i>
+
+624
+00:29:52,190 --> 00:29:55,327
+<i><font color="white">♪ I get so emotional,</font></i>
+<i><font color="white">baby ♪</font></i>
+
+625
+00:29:55,394 --> 00:29:57,029
+<i><font color="white">♪ Ain't it shocking what ♪</font></i>
+
+626
+00:29:57,696 --> 00:29:59,564
+<i><font color="white">♪ Love can do? ♪</font></i>
+
+627
+00:29:59,631 --> 00:30:03,101
+[cheers and applause]
+
+628
+00:30:20,419 --> 00:30:24,156
+Ladies,
+I have made my decision.
+
+629
+00:30:32,864 --> 00:30:35,767
+Sasha Velour,
+shantay you stay.
+
+630
+00:30:35,834 --> 00:30:38,603
+[cheers and applause]
+
+631
+00:30:49,815 --> 00:30:50,816
+Con-drag-ulations.
+
+632
+00:30:50,882 --> 00:30:52,918
+You've made it
+on to the finals.
+
+633
+00:30:52,984 --> 00:30:56,755
+Go get ready
+for the lip sync for the crown.
+
+634
+00:30:56,822 --> 00:31:00,625
+[cheers and applause]
+
+635
+00:31:00,692 --> 00:31:03,228
+That means Shea Coulee,
+I'm sorry, my dear,
+
+636
+00:31:03,295 --> 00:31:05,364
+this is not your time.
+
+637
+00:31:05,430 --> 00:31:08,967
+Thank you
+for a fabulous season.
+
+638
+00:31:09,034 --> 00:31:11,169
+[cheers and applause]
+
+639
+00:31:17,843 --> 00:31:21,380
+Now sashay away.
+
+640
+00:31:21,446 --> 00:31:23,115
+[cheers and applause]
+
+641
+00:31:23,181 --> 00:31:24,950
+[chanting]
+Shea! Shea! Shea! Shea!
+
+642
+00:31:25,016 --> 00:31:27,219
+Shea! Shea! Shea! Shea!
+
+643
+00:31:27,285 --> 00:31:28,754
+[cheering]
+
+644
+00:31:28,820 --> 00:31:29,855
+In just a few minutes,
+
+645
+00:31:29,921 --> 00:31:32,324
+Peppermint and Sasha Velour
+
+646
+00:31:32,391 --> 00:31:35,060
+will lip sync for the crown.
+
+647
+00:31:35,127 --> 00:31:39,064
+But first, a queen
+who knows all about winning.
+
+648
+00:31:39,131 --> 00:31:42,901
+All hail America's reigning
+drag superstar,
+
+649
+00:31:42,968 --> 00:31:44,703
+Bob the Drag Queen.
+
+650
+00:31:47,606 --> 00:31:52,310
+[cheers and applause]
+
+651
+00:32:05,557 --> 00:32:08,393
+Bob the Drag Queen,
+welcome back.
+
+652
+00:32:08,460 --> 00:32:11,930
+It's time
+to hand over the crown.
+
+653
+00:32:11,997 --> 00:32:15,834
+Uh, I'd like to keep it on,
+please.
+
+654
+00:32:15,901 --> 00:32:19,438
+[cheers and laughter]
+
+655
+00:32:23,108 --> 00:32:25,343
+What part
+of "hand over the crown"
+
+656
+00:32:25,410 --> 00:32:27,212
+do you not understand?
+
+657
+00:32:27,279 --> 00:32:30,449
+[cheers and laughter]
+
+658
+00:32:31,850 --> 00:32:33,718
+So, Bob,
+what was it like
+
+659
+00:32:33,785 --> 00:32:35,320
+for you being America's
+next drag superstar
+
+660
+00:32:35,387 --> 00:32:36,455
+this past year?
+
+661
+00:32:36,521 --> 00:32:37,789
+You get to travel
+the world
+
+662
+00:32:37,856 --> 00:32:39,591
+and realize how many people
+you've actually touched.
+
+663
+00:32:39,658 --> 00:32:41,993
+And let me tell you,
+I've touched a lot of people.
+
+664
+00:32:42,060 --> 00:32:44,796
+[laughs]
+
+665
+00:32:46,465 --> 00:32:47,966
+So what's next for you?
+
+666
+00:32:48,033 --> 00:32:49,301
+Funny you should ask.
+
+667
+00:32:49,367 --> 00:32:51,403
+You can see
+my stand-up comedy special,
+
+668
+00:32:51,470 --> 00:32:52,938
+<i><font color="white">Suspiciously Large Woman,</font></i>
+
+669
+00:32:53,004 --> 00:32:55,207
+which will be airing
+on LOGO TV
+
+670
+00:32:55,273 --> 00:32:56,675
+in the United States
+of America.
+
+671
+00:32:56,741 --> 00:32:58,944
+Uh-huh.
+
+672
+00:32:59,010 --> 00:33:00,145
+And my cousin Tralana
+
+673
+00:33:00,212 --> 00:33:02,314
+will be selling bootlegs
+in the parking lot.
+
+674
+00:33:02,380 --> 00:33:05,016
+Right. Good to know.
+
+675
+00:33:05,083 --> 00:33:07,118
+Thank you,
+Bob the Drag Queen.
+
+676
+00:33:07,185 --> 00:33:09,855
+[cheers and applause]
+
+677
+00:33:10,021 --> 00:33:12,791
+To our squirrel friends
+around the world,
+
+678
+00:33:12,858 --> 00:33:16,661
+I present
+your top two queens.
+
+679
+00:33:16,728 --> 00:33:18,430
+[cheers and applause]
+
+680
+00:33:18,497 --> 00:33:20,031
+Peppermint...
+
+681
+00:33:20,098 --> 00:33:22,334
+[cheering]
+
+682
+00:33:22,400 --> 00:33:24,903
+and Sasha Velour.
+
+683
+00:33:24,970 --> 00:33:26,371
+[cheering]
+
+684
+00:33:35,113 --> 00:33:37,549
+Two queens stand behind me.
+
+685
+00:33:37,616 --> 00:33:40,385
+Prior to tonight,
+you were asked to prepare
+
+686
+00:33:40,452 --> 00:33:41,653
+a lip sync performance
+
+687
+00:33:41,720 --> 00:33:45,257
+of "It's Not Right,
+But It's Okay"
+
+688
+00:33:45,323 --> 00:33:47,058
+by Whitney Houston.
+
+689
+00:33:47,125 --> 00:33:50,428
+Ladies, this is
+your last chance
+
+690
+00:33:50,495 --> 00:33:53,865
+to impress me
+and prove to the world
+
+691
+00:33:53,932 --> 00:33:59,204
+that you are America's
+next drag superstar.
+
+692
+00:33:59,271 --> 00:34:02,974
+[cheers and applause]
+
+693
+00:34:03,041 --> 00:34:04,976
+The time has come...
+[thunder]
+
+694
+00:34:05,043 --> 00:34:07,112
+for you to lip sync...
+
+695
+00:34:07,178 --> 00:34:10,148
+[echoing]
+for the crown!
+
+696
+00:34:10,215 --> 00:34:14,052
+[cheers and applause]
+
+697
+00:34:15,754 --> 00:34:17,956
+Good luck,
+
+698
+00:34:18,023 --> 00:34:20,792
+and don't fuck it up.
+
+699
+00:34:20,859 --> 00:34:24,663
+{n8}♪♪♪
+
+700
+00:34:24,729 --> 00:34:27,966
+{n8}<i><font color="white">♪ I pack your bags so you</font></i>
+<i><font color="white">can leave town for a week ♪</font></i>
+
+701
+00:34:28,033 --> 00:34:29,801
+<i><font color="white">♪ Yes, I am ♪</font></i>
+
+702
+00:34:31,436 --> 00:34:33,872
+<i><font color="white">♪ The phone rings ♪</font></i>
+
+703
+00:34:33,939 --> 00:34:36,675
+<i><font color="white">♪ And then you look at me ♪</font></i>
+
+704
+00:34:38,910 --> 00:34:42,147
+<i><font color="white">♪ You said it was</font></i>
+<i><font color="white">one of your friends ♪</font></i>
+
+705
+00:34:42,213 --> 00:34:46,051
+<i><font color="white">♪ Down on 54th Street, boy ♪</font></i>
+
+706
+00:34:46,117 --> 00:34:49,187
+<i><font color="white">♪ So why did 213 ♪</font></i>
+
+707
+00:34:49,254 --> 00:34:53,792
+<i><font color="white">♪ Show up</font></i>
+<i><font color="white">on your caller I.D. ♪</font></i>
+
+708
+00:34:53,858 --> 00:34:56,895
+<i><font color="white">♪ It's not right,</font></i>
+<i><font color="white">but it's okay ♪</font></i>
+
+709
+00:34:56,962 --> 00:35:00,732
+<i><font color="white">♪ I'm gonna make it</font></i>
+<i><font color="white">anyway ♪</font></i>
+
+710
+00:35:00,799 --> 00:35:04,636
+<i><font color="white">♪ Pack your bags up</font></i>
+<i><font color="white">and leave ♪</font></i>
+
+711
+00:35:04,703 --> 00:35:08,273
+<i><font color="white">♪ Don't you dare</font></i>
+<i><font color="white">come running back to me ♪</font></i>
+
+712
+00:35:10,609 --> 00:35:13,612
+<i><font color="white">♪ Was it really worth</font></i>
+<i><font color="white">you going out like that? ♪</font></i>
+
+713
+00:35:15,013 --> 00:35:18,350
+<i><font color="white">♪ See, I'm moving on ♪</font></i>
+
+714
+00:35:18,416 --> 00:35:22,988
+<i><font color="white">♪ And I refuse</font></i>
+<i><font color="white">to turn back, yeah ♪</font></i>
+
+715
+00:35:23,054 --> 00:35:25,924
+<i><font color="white">♪ See, all of this time ♪</font></i>
+
+716
+00:35:25,991 --> 00:35:29,227
+<i><font color="white">♪ I thought I had</font></i>
+<i><font color="white">somebody down for me ♪</font></i>
+
+717
+00:35:29,294 --> 00:35:31,463
+<i><font color="white">♪ It turns out ♪</font></i>
+
+718
+00:35:34,366 --> 00:35:36,635
+<i><font color="white">♪ You were making</font></i>
+<i><font color="white">a fool of me ♪</font></i>
+
+719
+00:35:36,701 --> 00:35:43,675
+<i><font color="white">♪ Oh ♪</font></i>
+
+720
+00:35:47,178 --> 00:35:50,248
+<i><font color="white">♪ It's not right,</font></i>
+<i><font color="white">but it's okay ♪</font></i>
+
+721
+00:35:50,315 --> 00:35:53,952
+<i><font color="white">♪ I'm gonna make it</font></i>
+<i><font color="white">anyway ♪</font></i>
+
+722
+00:35:54,019 --> 00:35:57,489
+<i><font color="white">♪ Pack your bags up</font></i>
+<i><font color="white">and leave ♪</font></i>
+
+723
+00:35:57,555 --> 00:36:01,359
+<i><font color="white">♪ Don't you dare</font></i>
+<i><font color="white">come running back to me ♪</font></i>
+
+724
+00:36:01,426 --> 00:36:04,696
+<i><font color="white">♪ It's not right,</font></i>
+<i><font color="white">but it's okay ♪</font></i>
+
+725
+00:36:04,763 --> 00:36:09,367
+<i><font color="white">♪ I'm gonna make it</font></i>
+<i><font color="white">anyway ♪</font></i>
+
+726
+00:36:09,434 --> 00:36:11,636
+<i><font color="white">♪ Close the door behind you,</font></i>
+<i><font color="white">leave your key ♪</font></i>
+
+727
+00:36:11,703 --> 00:36:12,971
+<i><font color="white">♪ Take care of my baby ♪</font></i>
+
+728
+00:36:13,038 --> 00:36:15,774
+<i><font color="white">♪ I'd rather be alone</font></i>
+<i><font color="white">than unhappy ♪</font></i>
+
+729
+00:36:15,840 --> 00:36:17,575
+<i><font color="white">♪ Oh ♪</font></i>
+
+730
+00:36:17,642 --> 00:36:21,012
+[cheers and applause]
+
+731
+00:36:31,156 --> 00:36:34,192
+Ladies, in addition
+to the title
+
+732
+00:36:34,259 --> 00:36:36,227
+of America's
+next drag superstar,
+
+733
+00:36:36,294 --> 00:36:38,229
+the winner
+of <i><font color="white">RuPaul's Drag Race</font></i>
+
+734
+00:36:38,296 --> 00:36:40,331
+will receive
+a crown and scepter
+
+735
+00:36:40,398 --> 00:36:42,767
+provided by Shandar,
+
+736
+00:36:42,834 --> 00:36:46,671
+a one-year supply of Anastasia
+Beverly Hills cosmetics,
+
+737
+00:36:46,738 --> 00:36:50,675
+and a cash prize
+of $100,000.
+
+738
+00:36:50,742 --> 00:36:54,212
+[cheers and applause]
+
+739
+00:36:54,279 --> 00:36:55,914
+Now...
+[thunder]
+
+740
+00:36:55,980 --> 00:36:57,849
+the time has come
+
+741
+00:36:57,916 --> 00:37:00,919
+to crown our queen.
+
+742
+00:37:02,287 --> 00:37:06,124
+Ladies,
+I've made my decision.
+
+743
+00:37:08,593 --> 00:37:11,930
+The winner
+of <i><font color="white">RuPaul's Drag Race,</font></i>
+
+744
+00:37:12,764 --> 00:37:15,934
+America's
+next drag superstar is...
+
+745
+00:37:18,803 --> 00:37:20,438
+Sasha Velour.
+
+746
+00:37:20,505 --> 00:37:23,508
+[cheers and applause]
+
+747
+00:37:34,252 --> 00:37:36,988
+Is there anything
+you'd like to say?
+
+748
+00:37:37,055 --> 00:37:39,324
+Let's change shit up.
+
+749
+00:37:39,390 --> 00:37:40,792
+[cheering]
+
+750
+00:37:40,859 --> 00:37:43,995
+Let's get inspired
+by all this beauty,
+
+751
+00:37:44,062 --> 00:37:45,430
+all this beauty,
+
+752
+00:37:45,497 --> 00:37:48,533
+and change
+the motherfucking world!
+
+753
+00:37:48,600 --> 00:37:51,336
+Now prance.
+
+754
+00:37:51,402 --> 00:37:52,837
+Prance, I said.
+
+755
+00:37:52,904 --> 00:37:56,174
+<i><font color="white">♪ If I dream</font></i>
+<i><font color="white">everything I wanna be ♪</font></i>
+
+756
+00:37:56,241 --> 00:38:00,378
+<i><font color="white">♪ If I dream</font></i>
+<i><font color="white">all the possibilities ♪</font></i>
+
+757
+00:38:00,445 --> 00:38:03,581
+<i><font color="white">♪ If you just believe</font></i>
+<i><font color="white">in your wildest dreams ♪</font></i>
+
+758
+00:38:03,648 --> 00:38:10,455
+<i><font color="white">♪ They will come true,</font></i>
+<i><font color="white">they will come true ♪</font></i>
+
+759
+00:38:10,822 --> 00:38:13,358
+Remember, if you can't
+love yourself,
+
+760
+00:38:13,424 --> 00:38:15,360
+how in the hell
+you gonna love somebody else?
+
+761
+00:38:15,426 --> 00:38:16,761
+Can I get an amen
+up in here?
+
+762
+00:38:16,828 --> 00:38:18,596
+[all]
+Amen!
+
+763
+00:38:18,663 --> 00:38:21,232
+All right.
+Now let the music play.
+
+764
+00:38:21,299 --> 00:38:24,903
+<i><font color="white">♪ If I dream</font></i>
+<i><font color="white">everything I wanna be ♪</font></i>
+
+765
+00:38:24,969 --> 00:38:28,740
+<i><font color="white">♪ If I dream</font></i>
+<i><font color="white">all the possibilities ♪</font></i>
+
+766
+00:38:28,807 --> 00:38:31,843
+<i><font color="white">♪ If you just believe</font></i>
+<i><font color="white">in your wildest dreams... ♪</font></i>
+
+767
+00:38:31,910 --> 00:38:33,945
+Aah!
+
+768
+00:38:34,012 --> 00:38:37,515
+<i><font color="white">♪ They will come true ♪</font></i>
+
+769
+00:38:41,920 --> 00:38:44,689
+<i><font color="white">♪ Yeah, hey, hey, hey,</font></i>
+<i><font color="white">hey, hey ♪</font></i>
+
+770
+00:38:44,756 --> 00:38:46,090
+<i><font color="white">♪ Hey, kitty girl ♪</font></i>
+
+771
+00:38:46,591 --> 00:38:48,059
+<i><font color="white">♪ It's your world ♪</font></i>
+
+772
+00:38:48,393 --> 00:38:52,430
+<i><font color="white">♪ When you walk the street</font></i>
+<i><font color="white">steppin' to the beat ♪</font></i>
+
+773
+00:38:52,497 --> 00:38:53,865
+<i><font color="white">♪ Hey, kitty girl ♪</font></i>
+
+774
+00:38:54,365 --> 00:38:55,800
+<i><font color="white">♪ Get your crown ♪</font></i>
+
+775
+00:38:56,367 --> 00:38:58,136
+<i><font color="white">♪ In the disco heat ♪</font></i>
+
+776
+00:38:58,203 --> 00:39:00,305
+<i><font color="white">♪ You're the boogie body</font></i>
+<i><font color="white">rockin' queen ♪</font></i>
+
+777
+00:39:00,371 --> 00:39:01,406
+<i><font color="white">♪ Yeah, yeah, yeah ♪</font></i>
+
+778
+00:39:01,472 --> 00:39:04,342
+<i><font color="white">♪ Kitty kitty,</font></i>
+<i><font color="white">Hey, here kitty kitty ♪</font></i>
+
+779
+00:39:04,409 --> 00:39:06,778
+<i><font color="white">♪ Hey, kitty kitty, yeah ♪</font></i>
+
+780
+00:39:06,845 --> 00:39:08,980
+<i><font color="white">♪ Ahh, yeah, whoa-oh-oh ♪</font></i>
+
