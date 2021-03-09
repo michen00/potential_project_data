@@ -4,7 +4,7 @@
 Each directory specified below contains data collected for a corresponding project idea.
 
 See also [social_media_food_desert_classification](https://github.com/michen00/social_media_food_desert_classification).
-See also [multilingual_speech_valence_class](https://github.com/michen00/multilingual_speech_valence_class).
+See also [multilingual_speech_valence_class](https://github.com/michen00/multilingual_speech_valence_classification/blob/main/DATA.md).
 
 ---
 
